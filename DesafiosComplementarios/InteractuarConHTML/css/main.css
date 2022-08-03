@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-areas:"btn1-1 btn1-1 btn1-2 btn1-2 btn1-3 btn1-3"
+                        "btn2-1 btn2-1 btn2-1 btn2-2 btn2-2 btn2-2"
+                        "btn3-1 btn3-1 btn3-1 btn3-1 btn3-1 btn3-1 ";
+}
+
+.btn1-1 {
+    grid-area: btn1-1;
+}
+
+.btn1-2 {
+    grid-area: btn1-2;
+}
+
+.btn1-3 {
+    grid-area: btn1-3;
+}
+
+.btn2-1 {
+    grid-area: btn2-1;
+}
+
+.btn2-2 {
+    grid-area: btn2-2;
+}
+
+.btn3-1 {
+    grid-area: btn3-1;
+}
+
+body div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body div button {
+    padding: 0.5rem;
+}
