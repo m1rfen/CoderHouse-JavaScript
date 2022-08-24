@@ -5,36 +5,40 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hamburgers/1.2.1/hamburgers.min.css">
     <link rel="stylesheet" href="./css/main.css">
     <title>G-Wolves</title>
 </head>
 
 <body>
 
-    <header>
-        <div class="header-background">
-            <img src="./img/G-Wolves-HEADER1.jpg" alt="">
-        </div>
-
-        <div class="header-navBar">
-            <ul>
-                <li><a href="./home.html">Home</a></li>
-                <li><a href="./pages/news.html">News</a></li>
-                <li><a href="./pages/products.html">Products</a></li>
-                <li><a href="./pages/software.html">Software</a></li>
-                <li><a href="./pages/store.html">Store</a></li>
-                <li><a href="./pages/contact.html">Contact</a></li>
-            </ul>
-        </div>
-
-        <div class="header-searchBar">
-            <ul>
-                <li><a href="#Search"><img src="./svg/search.svg" alt=""></a></li>
-                <li><a href="#Shopping-Bag"><img src="./svg/shopping-bag.svg" alt=""></a></li>
-            </ul>
-        </div>
+    <header class="header">
+        <a href="./home.html">
+            <h1>G-Wolves</h1>
+        </a>
     </header>
 
+    <button class="hamburger hamburger--vortex panel-btn" type="button">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <aside class="panel">
+        <nav class="menu">
+            <a href="./home.html">Home</a>
+            <a href="./pages/news.html">News</a>
+            <a href="./pages/products.html">Products</a>
+            <a href="./pages/software.html">Software</a>
+            <a href="./pages/contact.html">Contact</a>
+        </nav>
+    </aside>
+
+    <main class="main">
+        
+    </main>
+
+    <script src="./js/main.js" type="module"></script>
 </body>
 
 </html>
