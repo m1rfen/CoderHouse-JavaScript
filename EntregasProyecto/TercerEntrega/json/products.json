@@ -1,0 +1,188 @@
+{
+  "cakes": [
+    {
+      "id": 1,
+      "title": "Torta de casamiento",
+      "price": "3000",
+      "img": "../img/cake1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Torta con rosas",
+      "price": "1500",
+      "img": "../img/cake2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Torta de limón",
+      "price": "1000",
+      "img": "../img/cake3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Torta con rosas",
+      "price": "890",
+      "img": "../img/cake4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Torta de frutilla",
+      "price": "1000",
+      "img": "../img/cake5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Torta de chocolate y crema",
+      "price": "1000",
+      "img": "../img/cake6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Torta con cerezas",
+      "price": "1500",
+      "img": "../img/cake7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Torta de frutos rojos",
+      "price": "1500",
+      "img": "../img/cake8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Torta de chocolate y frutilla",
+      "price": "1200",
+      "img": "../img/cake9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Torta carrot cake",
+      "price": "1200",
+      "img": "../img/cake10.jpg"
+    }
+  ],
+  "cookies": [
+    {
+      "id": 1,
+      "title": "Galletitas Oreo Robot",
+      "price": "35",
+      "img": "../img/cookie1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Galletitas de Corazón",
+      "price": "45",
+      "img": "../img/cookie2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Galletitas Macarrones",
+      "price": "100",
+      "img": "../img/cookie3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Galletitas con Chispitas",
+      "price": "45",
+      "img": "../img/cookie4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Galletitas de San Valentin",
+      "price": "115",
+      "img": "../img/cookie5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Galletitas de Navidad",
+      "price": "45",
+      "img": "../img/cookie6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Galletitas de Chispas de Chocolate",
+      "price": "35",
+      "img": "../img/cookie7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Galletitas de Chispas de Colores",
+      "price": "45",
+      "img": "../img/cookie8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Galletitas de Vainilla",
+      "price": "45",
+      "img": "../img/cookie9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Galletitas de Jengibre",
+      "price": "70",
+      "img": "../img/cookie10.jpg"
+    }
+  ],
+  "muffings": [
+    {
+      "id": 1,
+      "title": "Muffing Americano",
+      "price": "35",
+      "img": "../img/muffing1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Muffing de Chocolate",
+      "price": "55",
+      "img": "../img/muffing2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Muffing del Cielo",
+      "price": "40",
+      "img": "../img/muffing3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Muffing de Crema Verde",
+      "price": "35",
+      "img": "../img/muffing4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Muffing de Halloween",
+      "price": "60",
+      "img": "../img/muffing5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Muffing de Chocolate y Chispas",
+      "price": "55",
+      "img": "../img/muffing6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Muffing de Frutilla",
+      "price": "60",
+      "img": "../img/muffing7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Muffing de Maní",
+      "price": "35",
+      "img": "../img/muffing8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Muffing de Moras",
+      "price": "65",
+      "img": "../img/muffing9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Muffing de Chocolate Tostado",
+      "price": "30",
+      "img": "../img/muffing10.jpg"
+    }
+  ]
+}
